@@ -1,7 +1,7 @@
 ### About Me 
-[![GitHub](https://img.shields.io/badge/GitHub.svg)](https://github.com/anangaur)
-[![Twitter](https://img.shields.io/badge/Twitter.svg)](https://twitter.com/adgrv)
-[![LinkedIn](https://img.shields.io/badge/Linked-in.svg)](https://www.linkedin.com/in/anandgaurav/)
+[![GitHub](https://img.shields.io/badge/GitHub-%40aanangaur-239a3b.svg)](https://github.com/anangaur)
+[![Twitter](https://img.shields.io/badge/Twitter.svg)](https://twitter-%40ashtom-58a1f2.com/adgrv)
+[![LinkedIn](https://img.shields.io/badge/Linked-in.svg)](https://www.Linked-in-0c66c3.com/in/anandgaurav/)
 
 👋
 
