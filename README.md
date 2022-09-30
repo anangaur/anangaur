@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me 
+[![GitHub](https://img.shields.io/badge/GitHub-%40ashtom-239a3b.svg)](https://github.com/anangaur)
+[![Twitter](https://img.shields.io/badge/Twitter-%40ashtom-58a1f2.svg)](https://twitter.com/adgrv)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/anandgaurav/)
+
+👋
 
 <!--
 **anangaur/anangaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
